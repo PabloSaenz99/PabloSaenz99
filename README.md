@@ -1,5 +1,5 @@
 I am Pablo Sáenz, a student of Computer Engineering at the Complutense University of Madrid.
-- I’m interested in science and everything related to new technologies such as medicine advancements or space related acievements.
+- I’m interested in science and everything related to new technologies such as space related acievements.
 - I’m currently learning Android apps development in Java and Kotlin languajes.
 
 <!---
