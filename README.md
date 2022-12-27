@@ -1,4 +1,4 @@
-[Spanish Version](https://github.com/PabloSaenz99/PabloSaenz99/blob/main/README.md)
+[Spanish Version](https://github.com/PabloSaenz99/PabloSaenz99/blob/main/README-ES.md)
 
 # Hi, I'm Pablo!
 
