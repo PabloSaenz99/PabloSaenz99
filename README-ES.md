@@ -5,7 +5,7 @@
 ## Ingeniero informático
 ***
 
-📜 Soy Pablo Sáenz y actualmente estoy finalizando el grado de Ingeniería Informática en la [Universidad Complutense de Madrid](https://informatica.ucm.es/) y trabajando como Full Stack Developer (Angular, Express y NodeJS) en [Acevedo](https://acevedocorp.com/es/home). Tengo conocimientos sobre Java, C++, programación básica de C y sistemas operativos y ciberseguridad, además de programación en dispositivos Android con Kotlin.
+📜 Soy Pablo Sáenz y soy graduado en Ingeniería Informática en la [Universidad Complutense de Madrid](https://informatica.ucm.es/) y trabajando como Ingeniero Junior en [Indra](https://www.indracompany.com/). Tengo conocimientos sobre Java, C++, Angular, Express, MongoDB programación básica de C y sistemas operativos y ciberseguridad, además de programación en dispositivos Android con Kotlin.
 
 ## Contacto
 Puedes contactarme a través de:
@@ -49,13 +49,15 @@ Puedes contactarme a través de:
 ## Aprendiendo
 
 <p align="left">
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349588/android.svg" width="36" height="36" alt="Android" /></a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349588/android.svg" width="36" height="36" alt="Android" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src=https://www.svgrepo.com/show/354440/tensorflow.svg" width="36" height="36" alt="TensorFlow e IA"/></a>
 </p>
 
 ## Otros conocimientos básicos
 - Extracción de datos mediante web scraping
 - Análisis de infromación basada en nodos (por ejemplo, conexiones entre usuarios de redes sociales)
 - Programación básica de inteligencia artificial para el control de sistemas utilizando Matlab
+- Inteligencia Artifical usando Python y Matlab y librerias como Tensorflow o Simulink
 
 # 💻 ¡Consulta mis proyectos!
 - ## [Trabajo de Fin de Grado](https://github.com/PabloSaenz99/appMenus)
