@@ -5,7 +5,7 @@
 ## Computer Engineer
 ***
 
-📜 I'm Pablo Saenz and I'm currently finishing my Computer Engineering degree at the [Complutense University of Madrid](https://informatica.ucm.es/) and working as a Full Stack Developer (Angular, Express and NodeJS) at [Acevedo]( https://acevedocorp.com/es/home). I have knowledge of Java, C++, basic C programming and operating systems and cybersecurity, as well as programming on Android devices with Kotlin.
+📜 I'm Pablo Saenz and I'm graduated in Computer Engineering degree at the [Complutense University of Madrid](https://informatica.ucm.es/) and working as a Junior Engineer at [Indra](https://www.indracompany.com/en). I have knowledge of Java, C++, Angular, Express, MongoDB, basic C programming and operating systems and cybersecurity, as well as programming on Android devices with Kotlin.
 
 ## Contact
 You can contact me through:
@@ -49,13 +49,15 @@ You can contact me through:
 ## Learning
 
 <p align="left">
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349588/android.svg" width="36" height="36" alt="Android" /></a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349588/android.svg" width="36" height="36" alt="Android"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src=https://www.svgrepo.com/show/354440/tensorflow.svg" width="36" height="36" alt="TensorFlow and AI"/></a>
 </p>
 
 ## Other basic knowledge
 - Data extraction using web scraping
 - Analysis of information based on nodes (for example, connections between users of social networks)
 - Basic programming of artificial intelligence for the control of systems using Matlab
+- AI using Python and libraries such as Tensorflow 
 
 # 💻 Check my projects!
 
