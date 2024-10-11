@@ -2,10 +2,10 @@
 
 # Hi, I'm Pablo!
 
-## Computer Engineer
+## Software Engineer
 ***
 
-📜 I'm Pablo Saenz and I'm graduated in Computer Engineering degree at the [Complutense University of Madrid](https://informatica.ucm.es/) and working as a Junior Engineer at [Indra](https://www.indracompany.com/en). I have knowledge of Java, C++, Angular, Express, MongoDB, basic C programming and operating systems and cybersecurity, as well as programming on Android devices with Kotlin.
+📜 I'm Pablo Saenz and I'm graduated in Computer Engineering degree at the [Complutense University of Madrid](https://informatica.ucm.es/) and working as a Software Engineer at [Indra](https://www.indracompany.com/en). I have knowledge of Java, C++, Angular, Express, MongoDB, basic C programming and operating systems and cybersecurity, as well as programming on Android devices with Kotlin.
 
 ## Contact
 You can contact me through:
@@ -23,15 +23,14 @@ You can contact me through:
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303480/c-logo.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376350/spring.svg" width="36" height="36" alt="Spring" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452156/angular.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
-<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 </p>
 
 ## Tools
@@ -39,12 +38,10 @@ You can contact me through:
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349437/linux.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/377983/latex.svg" width="36" height="36" alt="Microsoft Office" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/424906/logo-google-android-studio.svg" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/git.png" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.office.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/office-365.png" width="36" height="36" alt="Microsoft Office" /></a>
-<a href="https://www.canva.com/es_es/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/canva.png" width="36" height="36" alt="Canva" /></a>
-</p>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
+
 
 ## Learning
 
@@ -52,12 +49,6 @@ You can contact me through:
     <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349588/android.svg" width="36" height="36" alt="Android"/></a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src=https://www.svgrepo.com/show/354440/tensorflow.svg" width="36" height="36" alt="TensorFlow and AI"/></a>
 </p>
-
-## Other basic knowledge
-- Data extraction using web scraping
-- Analysis of information based on nodes (for example, connections between users of social networks)
-- Basic programming of artificial intelligence for the control of systems using Matlab
-- AI using Python and libraries such as Tensorflow 
 
 # 💻 Check my projects!
 
